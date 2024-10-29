@@ -1,0 +1,25 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>blowerverification_software</Name>
+  <DisplayName>blowerverification_software</DisplayName>
+  <Description/>
+  <Version>2.2.4</Version>
+  <ReleaseDate>2024-10-29</ReleaseDate>
+  <Script>installscript.qs</Script>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Default>true</Default>
+  <Essential>true</Essential>
+  <UpdateFile CompressedSize="29889943" OS="Any" UncompressedSize="97120490"/>
+  <DownloadableArchives>bin.7z</DownloadableArchives>
+  <UserInterfaces>page.ui</UserInterfaces>
+  <Licenses>
+   <License file="licence.txt" name="ICS License"/>
+  </Licenses>
+  <SHA1>2e4b613bdb63a2fa27ac04aa783f8b11a4116283</SHA1>
+ </PackageUpdate>
+ <SHA1>a9a8a1b8ad382e712c6562708800bfe410644863</SHA1>
+ <MetadataName>2024-10-29-1023_meta.7z</MetadataName>
+</Updates>
